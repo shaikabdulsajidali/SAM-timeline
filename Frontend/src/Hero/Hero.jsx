@@ -1,3 +1,8 @@
+// Copyright (c) 2026 shaikabdulsajidali
+// Licensed under the MIT License
+// See LICENSE file in the project root for full license text
+
+
 import React, { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Hero.css';

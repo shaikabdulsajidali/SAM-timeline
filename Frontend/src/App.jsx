@@ -1,3 +1,8 @@
+// Copyright (c) 2026 shaikabdulsajidali
+// Licensed under the MIT License
+// See LICENSE file in the project root for full license text
+
+
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Signup from './Signup/Signup';

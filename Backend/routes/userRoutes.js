@@ -1,3 +1,9 @@
+// Copyright (c) 2026 shaikabdulsajidali
+// Licensed under the MIT License
+// See LICENSE file in the project root for full license text
+
+
+
 const express = require('express');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
